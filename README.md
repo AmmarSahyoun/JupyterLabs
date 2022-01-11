@@ -6,7 +6,7 @@
 
 ## Web Scraping Python Packages:
 
-* Requests
+* Requests, API
 * Beautiful Soup
 * Scrapy  'webscraping framework'
-* Selenium 'automated robot web browser'
+* ETL and automation
